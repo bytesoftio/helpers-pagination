@@ -11,8 +11,7 @@
 
 
 - [Description](#description)
-- [Usage](#usage)
-  - [createPagination](#createpagination)
+- [createPagination](#createpagination)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -20,9 +19,7 @@
 
 Collection of helpers related to pagination.  
 
-## Usage
-
-### createPagination
+## createPagination
 
 Calculate total amount of pages, visible pages, more / less indicators and so on, based on the current page, total
 items, page size, etc.
@@ -35,7 +32,7 @@ This helper can be used to build paginations like:
 <  ... 7 8 [9] 10 11  ... >
 < [9] >
 [ v Select page ]
-``` 
+```
 
 Usage example:
 
